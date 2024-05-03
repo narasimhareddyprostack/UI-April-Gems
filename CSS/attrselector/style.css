@@ -1,0 +1,11 @@
+a{
+    background-color: red;
+    font-family: ;
+}
+
+.famitha{
+    background-color: yellow;
+}
+a[target]{
+    background-color: greenyellow;
+}
